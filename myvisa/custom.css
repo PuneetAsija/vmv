@@ -1,0 +1,57 @@
+.j11 {
+    text-align: justify;
+}
+
+.breadcrumb__content .breadcrumb-item a {
+    color: #ffffff;
+}
+
+.breadcrumb__content>h2 {
+    color: white;
+}
+
+.footer__top-two .row>*:nth-child(3) .footer-widget {
+    margin-left: 10px;
+}
+
+.services-item {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.project__content-three>span {
+    color: #a5a0a0;
+}
+
+.services-thumb img {
+    height: 100%;
+}
+
+img.rotateme {
+    opacity: 0.3;
+}
+
+.project__area-three,
+.about__bg {
+    padding: 50px 0px 80px 0;
+}
+
+.services-bg {
+    padding: 70px 0;
+}
+
+.counter-area {
+    padding: 70px 0 70px;
+}
+.tgmobile__menu .nav-logo img {
+    max-height: 62px;
+}
+.blog__post-content-two .title {
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: var(--tg-fw-semi-bold);
+    text-transform: capitalize;
+}
+.breadcrumb__content .breadcrumb-item {
+    font-size: 16px;
+    color: #ffffff;
+}
